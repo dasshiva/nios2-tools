@@ -1,0 +1,7 @@
+This is a collection of tools and documents that can help you build
+software for the nios2 processor
+
+It consists of clang-3.8, llvm-3.8, binutils 2.26 and some
+documentation obtained from the internet.
+
+All of the code and documentation have their own licenses
