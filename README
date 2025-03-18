@@ -11,3 +11,7 @@ HOW TO BUILD:
 2) then build clang using the identically named script in its source
 3) then build binutils with --target=nios2-unknown-linux-gnu 
 4) Profit?
+
+Successfully built and tested on:
+1) Ubuntu 24.04
+2) Android API 34 (Android 14)
