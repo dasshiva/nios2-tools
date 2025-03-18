@@ -5,3 +5,9 @@ It consists of clang-3.8, llvm-3.8, binutils 2.26 and some
 documentation obtained from the internet.
 
 All of the code and documentation have their own licenses
+
+HOW TO BUILD:
+1) First build llvm using the scrpt config_parms in the source
+2) then build clang using the identically named script in its source
+3) then build binutils with --target=nios2-unknown-linux-gnu 
+4) Profit?
