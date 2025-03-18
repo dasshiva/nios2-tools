@@ -1,0 +1,12 @@
+[submodule "nios2-clang"]
+	path = nios2-clang
+	url = https://github.com/dasshiva/nios2-clang
+[submodule "nios2-llvm"]
+	path = nios2-llvm
+	url = https://github.com/dasshiva/nios2-llvm
+[submodule "nios2-binutils"]
+	path = nios2-binutils
+	url = https://github.com/dasshiva/nios2-binutils
+[submodule "nios2-docs"]
+	path = nios2-docs
+	url = https://github.com/dasshiva/nios2-docs
