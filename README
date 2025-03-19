@@ -15,3 +15,7 @@ HOW TO BUILD:
 Successfully built and tested on:
 1) Ubuntu 24.04
 2) Android API 34 (Android 14)
+
+NOTE: 
+1) Source is severely hacked to remove deprecated C++11 features
+2) Due to 1), you need a C++ compiler that supports C++11 at minimum to compile
